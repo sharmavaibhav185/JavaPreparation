@@ -1,0 +1,272 @@
+Q1) When to use Vector and Purpose and drawbacks of Vector? Tell me the Real Time Scenario ?
+Q2) When to use ArrayList and Purpose of ArrayList? Tell me the Real Time Scenario ?
+Q3) Can you tell me the difference between vector and ArrayList ? 
+Q4) Can you tell me the difference between vector and LinkedList ? 
+Q5) Can you tell me the difference between ArrayList and LinkedList ? 
+Q6) In Which Scenario, we can think about going for vector in the project ?
+Q7) Tell me the usecases which makes you to think going for ArrayList ?
+Q8) If you use ArrayList, What could be the problem may comes in the project?
+Q9) If you use LinkedList, What could be the problem solves in the project?
+Q10) We do already have Vector to store data, then What's the need of HashSet ?
+Q11) What is the purpose of TreeSet and How it solves the problem of Vector ?
+Q12) Can we use Vector in SingleThreaded Environment ? How performance of the application affects using Vector in SingleThreaded Environment ?
+Q13) Why Vector is the best choice using in Multithreaded Environment ? How it affects the performance of the Application ?
+Q14) ArrayList is Synchronized or non-synchronized ?
+Q15) When to use LinkedList in the project ?
+Q16) What is the problem TreeSet solves, in already available Collection ?
+Q17) What is Hashtable ? What's the drawback of HashTable ?
+Q18) Why HashMap, if we already have Hashtable ? What's the problem HashMap solves over HashTable ?
+Q19) What is TreeMap ? What problems TreeMap solves over HashTable ?
+Q20) What is the use of WeakHashMap ?
+Q21) What's the drawback of HashSet ? How LinkedHashSet solves the problem over HashSet ?
+Q22) What's the drawback of HashMap ? How LinkedHashMap solves the problem over HashMap ?
+Q23) What is IdentityHashMap ? How it solves the problem of HashMap ?
+Q24) What are the changes happenend in Collection Framework at Language level and API level java 1.5 version onwards ?
+Q25) What is the need of Queue type collection ?
+Q26) What's the purpose of EnumSet and EnumMap ?
+Q27) What is the difference between EnumSet and EnumMap ?
+Q28) What is NavigableSet and NavigableMap ?
+Q29) What is vector ?
+Q30) In which version it is defined ?
+Q31) When we must use vector ?
+Q32) Is Vector synchronized or not ?
+Q33) Is Vector ordered collection or not ?
+Q34) What is the data structure Vector follows or What is implemented data structure of Vector ?
+Q35) What is the default capacity of Vector ?
+Q36) What is the incremental capacity of Vector ?
+Q37) What type of elements are allowed to store in Vector  ?
+Q38) Is null allowed in Vector, if allowed how many ? 
+Q39) In Which order elements are stored in Vector ?
+Q40) In Which order elements are retrived from Vector ?
+Q41) When you are adding objects to the collection, Collection impicitly calling some methods on your object  and that method will be executed either from your class or from java.lang.Object class ?
+Q42) Can you tell what are the new methods added in Collection Interface in java 8 ?
+Q43) Can you name some of the methods which added in Collection Interface in java 8 ?
+Q44) What are the iterator() method enhancement in java 8 ?
+Q45) Tell me the difference between iterator() and spliterator() method ?
+Q46) Tell me the difference between stream() and parallelStream() method ?
+Q47) What are the methods using which we can retrieve elements from an collection, with less code ?
+Q48) What's the difference between remove(E e) and removeAll(Collection<? extends E> c) method ?
+Q49) What's the difference between contains(E e) and containsAll(Collection<? extends E> c) method ?
+Q50) Can you tell the newly added methods in Collection Interface in java 11 ?
+Q51) What are the methods added in Collection Interface in java 11, name some of them ?
+Q52) When you should make use of List in the project ?
+Q53) Can you name some of the List Implemented Classes, What are they ?
+Q54) Is Vector, ArrayList, LinkedList directly or indirectly implements List ? If Yes, why ? If No, Why ? What's the reason ?
+Q55) Who is the superclass of all Collections ? Is it Iterable or Collection ?
+Q56) What are the List Interface specific methods ?
+Q57) Can you name the methods which is used to insert the elements into the List ?
+Q58) What is the difference between Collection Interface add() method and List Interface add() method ?
+Q59) What is the method to update the elements into the List ?
+Q60) Can we return(already existing object which we want to update with the new object), the target object(already existing  object) which we are updating ?
+Q61) What is the difference between Collection Interface remove() method and List Interface remove() method ?
+Q62) What is the difference between Collection Interface contains() method and List Interface indexOf() method ?
+Q63) If element not found in collection, what contains() method returns ?
+Q64) If element not found in collection, what indexOf() method returns ?
+Q65) What is the difference between List Interface indexOf() and lastIndexOf() method ?
+###Collection Framework ###Interview Questions ##500_question_series@Collection Framework ##Dead_Easy to crack any ##JAVA ##INTERVIEW@Collection Framework
+Q1) When to use Vector and Purpose and drawbacks of Vector? Tell me the Real Time Scenario ?
+Q2) When to use ArrayList and Purpose of ArrayList? Tell me the Real Time Scenario ?
+Q3) Can you tell me the difference between vector and ArrayList ? 
+Q4) Can you tell me the difference between vector and LinkedList ? 
+Q5) Can you tell me the difference between ArrayList and LinkedList ? 
+Q6) In Which Scenario, we can think about going for vector in the project ?
+Q7) Tell me the usecases which makes you to think going for ArrayList ?
+Q8) If you use ArrayList, What could be the problem may comes in the project?
+Q9) If you use LinkedList, What could be the problem solves in the project?
+Q10) We do already have Vector to store data, then What's the need of HashSet ?
+Q11) What is the purpose of TreeSet and How it solves the problem of Vector ?
+Q12) Can we use Vector in SingleThreaded Environment ? How performance of the application affects using Vector in SingleThreaded Environment ?
+Q13) Why Vector is the best choice using in Multithreaded Environment ? How it affects the performance of the Application ?
+Q14) ArrayList is Synchronized or non-synchronized ?
+Q15) When to use LinkedList in the project ?
+Q16) What is the problem TreeSet solves, in already available Collection ?
+Q17) What is Hashtable ? What's the drawback of HashTable ?
+Q18) Why HashMap, if we already have Hashtable ? What's the problem HashMap solves over HashTable ?
+Q19) What is TreeMap ? What problems TreeMap solves over HashTable ?
+Q20) What is the use of WeakHashMap ?
+Q21) What's the drawback of HashSet ? How LinkedHashSet solves the problem over HashSet ?
+Q22) What's the drawback of HashMap ? How LinkedHashMap solves the problem over HashMap ?
+Q23) What is IdentityHashMap ? How it solves the problem of HashMap ?
+Q24) What are the changes happenend in Collection Framework at Language level and API level java 1.5 version onwards ?
+Q25) What is the need of Queue type collection ?
+Q26) What's the purpose of EnumSet and EnumMap ?
+Q27) What is the difference between EnumSet and EnumMap ?
+Q28) What is NavigableSet and NavigableMap ?
+Q29) What is vector ?
+Q30) In which version it is defined ?
+Q31) When we must use vector ?
+Q32) Is Vector synchronized or not ?
+Q33) Is Vector ordered collection or not ?
+Q34) What is the data structure Vector follows or What is implemented data structure of Vector ?
+Q35) What is the default capacity of Vector ?
+Q36) What is the incremental capacity of Vector ?
+Q37) What type of elements are allowed to store in Vector  ?
+Q38) Is null allowed in Vector, if allowed how many ? 
+Q39) In Which order elements are stored in Vector ?
+Q40) In Which order elements are retrived from Vector ?
+Q41) When you are adding objects to the collection, Collection impicitly calling some methods on your object  and that method will be executed either from your class or from java.lang.Object class ?
+Q42) Can you tell what are the new methods added in Collection Interface in java 8 ?
+Q43) Can you name some of the methods which added in Collection Interface in java 8 ?
+Q44) What are the iterator() method enhancement in java 8 ?
+Q45) Tell me the difference between iterator() and spliterator() method ?
+Q46) Tell me the difference between stream() and parallelStream() method ?
+Q47) What are the methods using which we can retrieve elements from an collection, with less code ?
+Q48) What's the difference between remove(E e) and removeAll(Collection<? extends E> c) method ?
+Q49) What's the difference between contains(E e) and containsAll(Collection<? extends E> c) method ?
+Q50) Can you tell the newly added methods in Collection Interface in java 11 ?
+Q51) What are the methods added in Collection Interface in java 11, name some of them ?
+Q52) When you should make use of List in the project ?
+Q53) Can you name some of the List Implemented Classes, What are they ?
+Q54) Is Vector, ArrayList, LinkedList directly or indirectly implements List ? If Yes, why ? If No, Why ? What's the reason ?
+Q55) Who is the superclass of all Collections ? Is it Iterable or Collection ?
+Q56) What are the List Interface specific methods ?
+Q57) Can you name the methods which is used to insert the elements into the List ?
+Q58) What is the difference between Collection Interface add() method and List Interface add() method ?
+Q59) What is the method to update the elements into the List ?
+Q60) Can we return(already existing object which we want to update with the new object), the target object(already existing  object) which we are updating ?
+Q61) What is the difference between Collection Interface remove() method and List Interface remove() method ?
+Q62) What is the difference between Collection Interface contains() method and List Interface indexOf() method ?
+Q63) If element not found in collection, what contains() method returns ?
+Q64) If element not found in collection, what indexOf() method returns ?
+Q65) What is the difference between List Interface indexOf() and lastIndexOf() method ?
+
+
+
+
+
+
+Q1) When to use Vector and Purpose and drawbacks of Vector? Tell me the Real Time Scenario ?
+Q2) When to use ArrayList and Purpose of ArrayList? Tell me the Real Time Scenario ?
+Q3) Can you tell me the difference between vector and ArrayList ? 
+Q4) Can you tell me the difference between vector and LinkedList ? 
+Q5) Can you tell me the difference between ArrayList and LinkedList ? 
+Q6) In Which Scenario, we can think about going for vector in the project ?
+Q7) Tell me the usecases which makes you to think going for ArrayList ?
+Q8) If you use ArrayList, What could be the problem may comes in the project?
+Q9) If you use LinkedList, What could be the problem solves in the project?
+Q10) We do already have Vector to store data, then What's the need of HashSet ?
+Q11) What is the purpose of TreeSet and How it solves the problem of Vector ?
+Q12) Can we use Vector in SingleThreaded Environment ? How performance of the application affects using Vector in SingleThreaded Environment ?
+Q13) Why Vector is the best choice using in Multithreaded Environment ? How it affects the performance of the Application ?
+Q14) ArrayList is Synchronized or non-synchronized ?
+Q15) When to use LinkedList in the project ?
+Q16) What is the problem TreeSet solves, in already available Collection ?
+Q17) What is Hashtable ? What's the drawback of HashTable ?
+Q18) Why HashMap, if we already have Hashtable ? What's the problem HashMap solves over HashTable ?
+Q19) What is TreeMap ? What problems TreeMap solves over HashTable ?
+Q20) What is the use of WeakHashMap ?
+Q21) What's the drawback of HashSet ? How LinkedHashSet solves the problem over HashSet ?
+Q22) What's the drawback of HashMap ? How LinkedHashMap solves the problem over HashMap ?
+Q23) What is IdentityHashMap ? How it solves the problem of HashMap ?
+Q24) What are the changes happenend in Collection Framework at Language level and API level java 1.5 version onwards ?
+Q25) What is the need of Queue type collection ?
+Q26) What's the purpose of EnumSet and EnumMap ?
+Q27) What is the difference between EnumSet and EnumMap ?
+Q28) What is NavigableSet and NavigableMap ?
+Q29) What is vector ?
+Q30) In which version it is defined ?
+Q31) When we must use vector ?
+Q32) Is Vector synchronized or not ?
+Q33) Is Vector ordered collection or not ?
+Q34) What is the data structure Vector follows or What is implemented data structure of Vector ?
+Q35) What is the default capacity of Vector ?
+Q36) What is the incremental capacity of Vector ?
+Q37) What type of elements are allowed to store in Vector  ?
+Q38) Is null allowed in Vector, if allowed how many ? 
+Q39) In Which order elements are stored in Vector ?
+Q40) In Which order elements are retrived from Vector ?
+Q41) When you are adding objects to the collection, Collection impicitly calling some methods on your object  and that method will be executed either from your class or from java.lang.Object class ?
+Q42) Can you tell what are the new methods added in Collection Interface in java 8 ?
+Q43) Can you name some of the methods which added in Collection Interface in java 8 ?
+Q44) What are the iterator() method enhancement in java 8 ?
+Q45) Tell me the difference between iterator() and spliterator() method ?
+Q46) Tell me the difference between stream() and parallelStream() method ?
+Q47) What are the methods using which we can retrieve elements from an collection, with less code ?
+Q48) What's the difference between remove(E e) and removeAll(Collection<? extends E> c) method ?
+Q49) What's the difference between contains(E e) and containsAll(Collection<? extends E> c) method ?
+Q50) Can you tell the newly added methods in Collection Interface in java 11 ?
+Q51) What are the methods added in Collection Interface in java 11, name some of them ?
+Q52) When you should make use of List in the project ?
+Q53) Can you name some of the List Implemented Classes, What are they ?
+Q54) Is Vector, ArrayList, LinkedList directly or indirectly implements List ? If Yes, why ? If No, Why ? What's the reason ?
+Q55) Who is the superclass of all Collections ? Is it Iterable or Collection ?
+Q56) What are the List Interface specific methods ?
+Q57) Can you name the methods which is used to insert the elements into the List ?
+Q58) What is the difference between Collection Interface add() method and List Interface add() method ?
+Q59) What is the method to update the elements into the List ?
+Q60) Can we return already existing object which we want to update with the new object), the target object(already existing  object) which we are updating ?
+Q61) What is the difference between Collection Interface remove() method and List Interface remove() method ?
+Q62) What is the difference between Collection Interface contains() method and List Interface indexOf() method ?
+Q63) If element not found in collection, what contains() method returns ?
+Q64) If element not found in collection, what indexOf() method returns ?
+Q65) What is the difference between List Interface indexOf() and lastIndexOf() method ?
+Q66) What is the logic to work with Vector's class contains() method when passed argument is null ?
+Q67) What is the logic to work with Vector's class remove() method when passed argument is null ?
+Q68) Write a logic to work with Vector's class add() method ?
+Q69) What's the logic to maintain the capacity and size of a vector ?
+Q70) When to use ArrayList in project ?
+Q71) Is ArrayList good for SingleThreaded or Multithreaded Application ?
+Q72) Is ArrayList a synchronized or non - synchronized ?
+Q73) Is ArrayList an ordered collection ?
+Q74) If ArrayList ordered collection then Which order does ArrayList maintains ?
+Q75) What is the implemented DataStructure of ArrayList ?
+Q76) What is the default capacity of ArrayList ?
+Q77) What is the incremental capacity of ArrayList ?
+Q78) What types of elements can be stored in ArrayList ?
+Q79) Does ArrayList allows to store null ?
+Q80) Can multiples null are allowed to store in ArrayList ?
+Q81) What are the order does ArrayList allows us to retrieve elements ?
+Q82) In Searching and Removing elements, what method does it call implicitly ?
+Q83) Can we increase the capacity of ArrayList ?
+Q84) How to discard empty location from an ArrayList ?
+Q85) How to find capacity of an ArrayList as it's been maintained internally by ArrayList ?
+Q86) How get() method works internally in ArrayList ?
+Q87) Can we assign to a variable of returning object type in an ArrayList ?
+Q88) Can we invoke return object specific methods by using Object type reference in an ArrayList ?
+Q89) Is it recommended to type cast directly basis on returned type elements from ArrayList ?
+Q90) What is the Java 14 style to check if passed object is of the given type ?
+Q91) What is LinkedList ? How to retreive elements from an LinkedList ?
+Q92) When should we use LinkedList in project ?
+Q93) Difference between ArrayList and LinkedList ?
+Q94) Is LinkedList a legacy collection or Collections Framework collection ?
+Q95) Is LinkedList synchronized or non - synchronized ?
+Q96) Is LinkedList an ordered collection or un-ordered collection ?
+Q97) Is LinkedList maintains elements with index or without index ?
+Q98) What is the implemented data structure of LinkedList ?
+Q99) What is the default capacity of LinkedList ?
+Q100) What is the default incremental capacity of LinkedList ?
+Q101) What types of elements allows to store in LinkedList ?
+Q102) Can null be stored in LinkedList ? Can null be multiples in LinkedList ?
+Q103) How ArrayList works internally ?
+Q104) How LinkedList works internally ?
+Q105) What is the Internal Data Structure of HashSet ?
+Q106) When you create HashSet Object, implicitly it's elements are stored in which object ?
+Q107) Whose Memory is being maintained by HashSet implicitly ?
+Q108) When we call hs.add("a"), this passed element stored in which memory ?
+Q109) The element passing to the HashSet is only one object, But How many objects does HashMap expecting ?
+Q110) What is the method being called by HashSet add() method internally ?
+Q111) Here, hs.add("a"), Element you are passing is only one object, then add() method must call which class method for storing ?
+Q112) What would be the variable gets associated internally with passed element using add() method of HashSet ?
+Q113) What is the meaning of PRESENT and What actually it does refers to ?
+Q114) Does HashSet follows insertion order ?
+Q115) Is HashSet a ordered collection ?
+Q116) Is HashSet a synchronized or non - synchronized collection ?
+Q117) What is the default capacity of HashSet ?
+Q118) What types of Objects gets stored in HashSet ?
+Q119) Is HashSet allows to store null , If yes, How many ?
+Q120) Why only one null allowed to store in HashSet ?
+Q121) If we store elements in an HashSet, in which order they gets stored ?
+Q122) Can you retrive objects randomly ?
+Q123) What is the internal method called in HashSet executed from our class ?
+Q124) How HashSet works internally ?
+Q125) Which methods internally used by HashSet to find duplicate object ?
+Q126) Let's HashSet already have hs.add(new SampleColl(5,6)); added into it, if you again try to add hs.add(new SampleColl(5,6)); Does "== operator" or "equals()" method call, provided SampleColl class does not override hashcode() method into it's class ? Element would be stored or not ?
+Q127) Let's HashSet already have SampleColl scoll = new SampleColl(7,8); , And if you try to do, hs.add(scoll); added into it,   if you again try to add hs.add(scoll);  Does "== operator" or "equals()" method call, provided SampleColl class does not override hashcode() method into it's class ? Element would be stored or not ?
+Q128) Data wise duplicate object bydefault won't be stopped by HashSet ? Is this statement true or false ? Justify it ?
+Q129) Reference wise duplicate object bydefault stopped by HashSet ? Is this statement true or false ? Justify it ?
+Q130) What could be ways a object can be duplicate in HashSet ?
+Q131) Bydefault HashSet can stop only reference wise duplicate object ? Is this statement true or false ? Justify it ?
+Q132) Can HashSet bydefault stops data wise duplicate objects ? Is this statement true or false ? Justify it ?
+Q133) How can you stop data wise duplicate objects into HashSet ?
+Q134) If I have overridden hashcode() method, not overridden equals() method, Will it stop data wise duplicate objects stored into collection ?
+Q135) If I have overridden equals() method, not overridden hashcode() method, Will it stop data wise duplicate objects stored into collection ?

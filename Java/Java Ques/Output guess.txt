@@ -1,0 +1,78 @@
+Q1) What will the following code print when compiled and run?
+
+var numA = new Integer[]{1, null, 3}; //1
+var list1 = List.of(numA); //2
+var list2 = Collections.unmodifiableList(list1); //3
+numA[1] = 2; //4
+System.out.println(list1+" "+list2);
+
+Please select 1 option
+
+a)It will not compile
+b) An exception will be thrown at run time.
+c) [1, null, 3] [1, 2, 3]
+d) [1, null, 3] [1, null, 3]
+e) [1, 2, 3] [1, 2, 3]
+Q2) What will be the contents of d at the end of the following code?          
+Deque<Integer> d = new ArrayDeque<>();         
+d.push(1);         
+d.offerLast(2);         
+d.push(3);         
+d.peekFirst();         
+d.removeLast();         
+d.pop();         
+System.out.println(d);
+
+Please select 1 option
+
+a) 1
+b) 2
+c) 3
+d) Exception at run time.
+e) It will not compile.
+Q3) What will the following code print when compiled and run?  
+public class SortTest {    
+  public static void main(String[] args) {         
+    Object[] sa = { 100, 100.0, "100" };         
+    Collections.sort(Arrays.asList(sa), null);         
+    System.out.println(sa[0]+" "+sa[1]+" "+sa[2] );     
+    } 
+  }
+  
+  Please select 1 option
+
+  a) 100 100 100.0
+  b) 100.0 100 100
+  c) 100 100.0 100
+  d) It will not compile.
+  e) It will throw an exception at run time.
+Q4) What will the following code print? 
+
+var a = new int[]{ 1, 2, 3, 4, 5}; 
+var b = new int[]{ 1, 2, 3, 4, 5, 3}; 
+var c = new int[]{ 1, 2, 3, 4, 5, 6};
+
+int x = Arrays.compare(a, c); 
+int y = Arrays.compare(b, c); 
+System.out.println(x+" "+y);
+
+
+Please select 1 option
+
+a) -1 -1
+b) 1 1
+c) -1 -3
+d) 1 3
+Q5) What will the following code print when compiled and run?  
+var numA = new Integer[]{1, 2}; 
+var list1 = List.of(numA); 
+numA[0] = 2; 
+var list2 = List.copyOf(list1); 
+System.out.println(list1+" "+list2);
+
+Please select 1 option
+
+a) It will not compile.
+b) [1, 2] [1, 2]
+c) [2, 2] [1, 2]
+d) [2, 2] [2, 2]

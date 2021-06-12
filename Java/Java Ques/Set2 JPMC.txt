@@ -1,0 +1,92 @@
+Interview_Questions@JPMC "ROUND-1" Interview_Happened_1hr...
+1. What is Static Control flow?
+2. What is Instance Control flow?
+3. Can I access an instance field from static context?
+4. Can I call a static method through the object reference?
+5. What is the difference between Comparator and Comparable?
+6. What are fail-fast collections in java?
+7. Difference between HashMap and HashTable?
+8. How HashMap works internally?
+9. What is Random Access? Is it class or Interface?
+10. Which collection classes you have used in your project and why?
+11. Write pseudo code to iterate a map?
+12. What is constructor? Can a class contain more than one constructor?
+13. What is Exception?
+14. What is checked and unchecked exception?
+15. Which one u prefer to handle exception try-catch or throws?
+16. In your project how u handle the exception in which layer and how u map?
+17. If 2 thread try to access my collection Object at same time then is there any problem? If yes how can I handle this?
+18. What is synchronization, and what are the various places where we can use it?
+19. Can I declare a class as private?
+20. Can a class use both implements and extends keywords? If yes which one should be first?
+21. How many ways are there to create Thread?
+22. What is Executor Service?
+23. Did you get a chance to use Multi-Threading? In Which scenario you have used multi-threading in your current project?
+24. What is Copy Constructor?
+25. What is deep cloning and shallow cloning?
+26. What are the new features in Java 8 and Java 9?
+27. If JDBC is there why hibernate?
+28. Can I reuse the session? If yes how if no then what is the problem?
+29. What is the difference between level-1 and level-2 cache?
+30. Difference between get and load methods?
+31. Difference between update and saveOrUpdate methods?
+32. How to insert record using Hibernate?
+33. What is the state of object?
+34. What is the lazy attribute and how it works?
+35. What are ID generators in Hibernate?
+36. What is Composite Primary Key? How to map using Annotations?
+37. How u configure data Source and name of the data Source?
+38. What is Service Registry in Hibernate?
+39. What is relation between JPA and Hibernate?
+40. Tell me some annotations from Hibernate?
+41. What is HQL queries?
+42. How to call Stored Procedures using Hibernate?
+43. How to map entity classes with One-To-Many relationship using Annotations?
+44. What is cascade and fetch in Hibernate?
+45. Write hibernate configuration file?
+46. Can we use properties file for Configuration?
+47. What is dependency injection?
+48. How many ways we can start IOC?
+49. What are the Differences between BeanFactory and ApplicationContext?
+50. How many objects will be created for a Bean by IOC?
+51. What is depends-on in spring?
+52. What is Method-Replacement?
+53. If I inject non-singleton bean into singleton what is the result?
+54. What is lookup method injection?
+55. What is lazy attribute?
+56. What is auto-wiring?
+57. What is Row Mapper?
+58. What is AOP?
+59. Explain about Around Advice?
+60. What is Point cut?
+61. How to write Point cut expression?
+62. Explain Spring MVC Architecture?
+63. What are the spring MVC annotations you used in your project?
+64. Why we need Dispatcher Servlet?
+65. For every request I have to trace the IP address of user how can we do this?
+66. What is View Resolver?
+67. How to integrate spring with Hibernate?
+68. What is Spring Boot?
+69. Where to change embedded tomcat server Port number in Spring Boot project?
+70. I have a spring project, can we migrate into Boot?
+71. What is @Request Body and @Response Body?
+72) What is difference between Top Down and Bottom Up approach in SOAP Web Services?
+73) What is WSDL? Why we need WSDL?
+74) Can you explain WSDL structure?
+75) Why we need SOAP? How Many Sections will be there in the SOAP?
+76) What is sun-jaxws.xml file?
+77) Tell me some annotations from JAX-WS API?
+78) What is SOAP Handler?
+79) What is JAX-RS API?
+80) Name some implementations of JAX-RS API?
+81) When SOAP is already available, why people are going for RESTful services?
+82) How to set different status code in HTTP response?
+83) How you will handle exceptions in REST application?
+84) Write some JAX-RS annotations?
+85) What is @BeanParam?
+86) What are differences between @PathParam and @QueryParam annotations?
+87) Are you using XML or JSON?
+88) Can one method produce multiple formats of the data?
+89) Can you write the code to convert java obj to json?
+90) How you will develop Secured Resources in Rest application?
+91) What is WADL?
